@@ -29,7 +29,7 @@ Screenshot
 
 Links
 
-Live Site URL: Add URL
+Live Site URL: [URL](https://bean-123.github.io/Social-proof-section/)
 
 Built with
 Semantic HTML5 markup
